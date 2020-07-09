@@ -41,9 +41,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-*{
-    /*border: 3px solid grey;*/
-    font-family: 'Roboto Mono', monospace;
+ *{
+   border: 3px solid grey;
+   font-family: 'Roboto Mono', monospace;
 }
 .container{
     width: 100%;
@@ -62,6 +62,7 @@ table {
     width: 8.5%;
     
 }
+
 .container nav a:hover{
     
     background-color: black;
@@ -132,7 +133,7 @@ h1{
 
 #footerImg{
     width:100%;
-    max-height: 250px;
+    max-height: 300px;
     overflow: hidden;
     
 }
